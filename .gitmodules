@@ -1,0 +1,6 @@
+[submodule "Packages/Chris"]
+	path = Packages/Chris
+	url = https://github.com/AkiKurisu/Chris.git
+[submodule "Packages/IllusionRP"]
+	path = Packages/IllusionRP
+	url = https://github.com/AkiKurisu/IllusionRP.git
