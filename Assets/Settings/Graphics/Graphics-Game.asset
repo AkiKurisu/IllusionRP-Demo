@@ -15,6 +15,6 @@ MonoBehaviour:
   fieldOfView: 45
   nearClipPlane: 0.3
   farClipPlane: 1000
-  frameRateOptions: 1e0000003c000000ffffffff
+  frameRateOptions: 3c000000
   graphicsModules: []
   disableFeatures: 8
